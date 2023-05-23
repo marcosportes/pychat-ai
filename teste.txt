@@ -1,0 +1,15 @@
+
+    Directory: C:\Users\Rmc-0079\Dropbox\T-I\Marcos\pychat-ai
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+da---          23/05/2023    11:17                .git
+la---          12/05/2023    15:19           (67) .env
+-a---          12/05/2023    15:01           1466 article-example.txt
+-a---          12/05/2023    15:20            632 mycheff.py
+-a---          12/05/2023    15:01            568 README.md
+-a---          12/05/2023    15:01            827 smartshell.py
+-a---          12/05/2023    15:01            569 summary.py
+-a---          23/05/2023    11:19              0 teste.txt
+-a---          12/05/2023    15:01            763 translate.py
+
